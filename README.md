@@ -1,4 +1,4 @@
-# LynchMind Project
+# LynchMind
 
 ## Overview
 LynchMind is a data-driven project that combines financial analysis, data science, and generative AI to provide insights and tools for stock analysis and market recommendations. The project leverages LangChain, OpenAI embeddings, and ChromaDB for smarter retrieval and indexing, along with a custom-built screener application.
